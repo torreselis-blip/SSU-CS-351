@@ -2,3 +2,5 @@
 Computer Architecture Spring 2026
 
 * Project 1
+
+* Project 3
